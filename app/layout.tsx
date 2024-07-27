@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://link.daniel.rest",
-    siteName: "sshort",
+    siteName: "link",
     title: "url shortener",
   },
 
